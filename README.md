@@ -1,7 +1,7 @@
 # Feature Selective Model Collapse in Diffusion Models: Total Replacement versus Fixed-Budget Training
 
-Code for the experiments of the paper *Model collapse in recursive generative
-diffusion models* (anonymous submission). A diffusion model is trained on real
+Code for the experiments of the paper *Feature Selective Model Collapse in Diffusion Models:
+Total Replacement versus Fixed-Budget Training* (anonymous submission). A diffusion model is trained on real
 data, generates a synthetic dataset, a new model is trained on that synthetic
 dataset, and so on for up to 100 generations. The scripts reproduce the collapse
 curves and the sample grids of the paper on a 2D spiral, MNIST, Fashion-MNIST and
