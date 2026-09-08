@@ -1,4 +1,4 @@
-# Model collapse in recursive diffusion models
+# Feature Selective Model Collapse in Diffusion Models: Total Replacement versus Fixed-Budget Training
 
 Code for the experiments of the paper *Model collapse in recursive generative
 diffusion models* (anonymous submission). A diffusion model is trained on real
